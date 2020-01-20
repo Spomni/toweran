@@ -55,6 +55,7 @@ toweran.ConfigReader = require(FRAMEWORK_PATH + '/lib/ConfigReader')
 toweran.HelperServiceProvider = require(FRAMEWORK_PATH + '/lib/serviceProviders/HelperServiceProvider')
 toweran.DependencyInjectionServiceProvider = require(FRAMEWORK_PATH + '/lib/serviceProviders/DependencyInjectionServiceProvider')
 toweran.EventServiceProvider = require(FRAMEWORK_PATH + '/lib/serviceProviders/EventServiceProvider')
+toweran.HttpServiceProvider = require(FRAMEWORK_PATH + '/lib/serviceProviders/HttpServiceProvider')
 
 /**
  * The App
